@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reach/static/css/main.3e55a5b2.chunk.css",
+    "main.js": "/reach/static/js/main.d7fb6d40.chunk.js",
+    "main.js.map": "/reach/static/js/main.d7fb6d40.chunk.js.map",
+    "runtime-main.js": "/reach/static/js/runtime-main.466577b8.js",
+    "runtime-main.js.map": "/reach/static/js/runtime-main.466577b8.js.map",
+    "static/js/2.170196ce.chunk.js": "/reach/static/js/2.170196ce.chunk.js",
+    "static/js/2.170196ce.chunk.js.map": "/reach/static/js/2.170196ce.chunk.js.map",
+    "static/js/3.e3fa27f0.chunk.js": "/reach/static/js/3.e3fa27f0.chunk.js",
+    "static/js/3.e3fa27f0.chunk.js.map": "/reach/static/js/3.e3fa27f0.chunk.js.map",
+    "index.html": "/reach/index.html",
+    "static/css/main.3e55a5b2.chunk.css.map": "/reach/static/css/main.3e55a5b2.chunk.css.map",
+    "static/js/2.170196ce.chunk.js.LICENSE.txt": "/reach/static/js/2.170196ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.466577b8.js",
+    "static/js/2.170196ce.chunk.js",
+    "static/css/main.3e55a5b2.chunk.css",
+    "static/js/main.d7fb6d40.chunk.js"
+  ]
+}
